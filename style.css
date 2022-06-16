@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('./image/MVIMG_20220519_181504.jpg');
+    background: url('./image/MVIMG_20220519_181504.jpg');
 }
 .container
 {
